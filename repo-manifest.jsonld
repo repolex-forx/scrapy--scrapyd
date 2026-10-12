@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scrapy/scrapyd/commit/50c4aa1d6e2cbd91fcecc63b604be168f7025366",
       "git:hexsha": "50c4aa1d6e2cbd91fcecc63b604be168f7025366",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scrapy/scrapyd/commit/54d8c3cc2665339d88df4b5229d330a7c4ce3bb5",
